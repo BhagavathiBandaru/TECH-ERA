@@ -1,0 +1,128 @@
+.app-container {
+  background: #ffffff;
+  min-height: 100vh;
+}
+.success-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-left: 30px;
+  justify-content: center;
+}
+.list-items {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  width: 200px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  align-items: center;
+}
+.course-logo {
+  margin-right: 10px;
+}
+.main-heading {
+  margin-left: 80px;
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-top: 30px;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-link {
+  text-decoration: none;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 700;
+}
+
+.name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.failure-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #475569;
+  font-weight: 700;
+  font-family: 'Roboto';
+}
+.description {
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #64748b;
+}
+.img-element {
+  height: 350px;
+  width: 600px;
+}
+.retry-button {
+  background: #4656a1;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: 0px;
+  padding: 5px;
+  border-radius: 5px;
+  width: 120px;
+  cursor: pointer;
+  height: 40px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+
+.homepage-background {
+  background: #ffffff;
+  min-height: 100vh;
+}
+.ul-background {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-left: 30px;
+  justify-content: center;
+}
+.list-item {
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+  width: 200px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  align-items: center;
+}
+.language-icon {
+  margin-right: 10px;
+}
+.courses-heading {
+  margin-left: 80px;
+  font-family: 'Roboto';
+  color: #1e293b;
+  margin-top: 30px;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-link {
+  text-decoration: none;
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-weight: 700;
+}

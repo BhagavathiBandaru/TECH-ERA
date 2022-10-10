@@ -1,0 +1,32 @@
+.success-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  margin-left: 30px;
+  justify-content: flex-start;
+  height: 120px;
+  width: 20vw;
+  margin: 5px;
+}
+.list-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+
+  cursor: pointer;
+  align-items: center;
+}
+.course-logo {
+  height: 50px;
+  width: 50px;
+}
+.course-name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: 500;
+}
